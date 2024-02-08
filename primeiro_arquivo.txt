@@ -1,0 +1,2 @@
+Primeira frase para a aula de git.
+Segunda Frase da aula de Git.
